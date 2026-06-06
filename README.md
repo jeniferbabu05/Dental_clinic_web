@@ -1,3 +1,4 @@
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,6 @@ If you are developing a production application, we recommend using TypeScript wi
 #############################################################################
                     This is the Staic Dental Clinic Web Applicatiion
 #############################################################################
+=======
+# Dental_clinic_web
+
