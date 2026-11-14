@@ -3,13 +3,13 @@ export const clinicInfo = {
   tagline: 'Compassionate Care for Every Smile',
   description:
     'Mothers Grace Dental Clinic is a family-oriented dental practice in Chennai, dedicated to providing gentle, high-quality dental care for patients of all ages.',
-  address: '42, Anna Salai, T. Nagar, Chennai, Tamil Nadu 600017',
+  address: '42, Kirshna Nagar, Pammal, Chennai, Tamil Nadu 600017',
   phone: '+91 90438 92131',
   email: 'info@mothersgracedental.com',
   whatsapp: '+919043892131',
   hours: {
-    weekdays: 'Mon – Sat: 9:00 AM – 8:00 PM',
-    sunday: 'Sunday: 10:00 AM – 2:00 PM',
+    weekdays: 'Mon – Sat: 10:00 AM – 9:00 PM',
+    sunday: 'Sunday: 10:00 AM – 1:00 PM',
   },
   social: {
     facebook: 'https://facebook.com/mothersgracedental',
@@ -46,7 +46,7 @@ export const clinicInfo = {
     },
   ],
   milestones: [
-    { year: '2006', title: 'Clinic Founded', description: 'Dr. Grace Mathew opens Mothers Grace Dental Clinic in T. Nagar, Chennai.' },
+    { year: '2006', title: 'Clinic Founded', description: 'Dr. Shanmuga Priya opens Mothers Grace Dental Clinic in Pammal, Chennai.' },
     { year: '2010', title: 'Expanded Services', description: 'Added cosmetic dentistry and orthodontics departments.' },
     { year: '2015', title: 'Pediatric Wing', description: 'Launched dedicated children\'s dental care with Dr. Priya Nair.' },
     { year: '2019', title: 'Digital Upgrade', description: 'Introduced 3D imaging, laser dentistry, and Invisalign treatments.' },
